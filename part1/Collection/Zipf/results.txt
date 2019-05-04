@@ -1,0 +1,15 @@
+Les 10 mots apparaissant le plus souvent et leur fréquence :
+('the', 10996)
+('of', 9026)
+('and', 4495)
+('to', 3726)
+('is', 3722)
+('in', 3427)
+('cacm', 3204)
+('for', 3160)
+('are', 1983)
+('algorithm', 1542)
+
+Taille du vocabulaire : 12106
+Nombre d'occurrences total : 172933
+Valeur théorique de lambda : 18394.277571050316
